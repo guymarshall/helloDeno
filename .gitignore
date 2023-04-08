@@ -1,0 +1,6 @@
+.vscode/
+.idea/
+*.iml
+deno.lock
+*.log
+.DS_Store
